@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# production
+build/
+
+# local env files
+.env*.local
+.env
+package-lock.json
+
+# Environment variables
+.env
+
+#MCP Server
+.vscode/
